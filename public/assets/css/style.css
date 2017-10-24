@@ -1,0 +1,46 @@
+body {
+  background-color: #f2dca9;
+}
+
+img {
+  width: 40%;
+  margin-bottom: 20px;
+}
+
+.columnFont {
+  color: #bb4a26;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.directionsFont {
+	color: #36241d;
+	margin-top: 5px;
+}
+
+.btn-danger {
+	background-color: #bb4a26;
+}
+
+.btn-success {
+	background-color: #889c0f;
+	border-color: #889c0f;
+	margin-top: -10px;
+}
+
+.btn-success:hover {
+	background-color: #adc914;
+	border-color: #adc914;
+}
+
+.input-group .form-control {
+	margin-bottom: 10px;
+}
+
+#devouredForm {
+	width: 350px;
+}
+
+.input-group-btn:last-child>.btn {
+	margin-left: 10px;
+}
