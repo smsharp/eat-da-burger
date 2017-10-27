@@ -6,14 +6,12 @@ This is a simple burger ordering app that enables users to order a burger and ke
 
 ### How to Run Eat Da Burger
 
-Try it out on Heroku: 
-
 To run the app locally please download the repository zip file, unzip, and follow the steps below:
 
 	cd eat-da-burger
-	npm install mysql
-	npm install express
-	npm install express-handlebars
-	npm install method-override
-  	npm install body-parser
+	npm install
   	node server.js
+
+Run the schema and seeds in your MySql Workbench and modify the config.json file (in config folder) to match your own local MySql database. 
+
+In your browser, run localhost:3000.
